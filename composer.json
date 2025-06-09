@@ -1,5 +1,6 @@
 {
     "name": "socialiteproviders/generators",
+    "version": "4.7.1-dev",
     "description": "Laravel Artisan Generators for OAuth1/OAuth2 Providers",
     "license": "MIT",
     "authors": [
@@ -34,7 +35,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "3.0-dev"
+            "dev-master": "4.7.1-dev"
         },
         "laravel": {
             "providers": [

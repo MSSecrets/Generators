@@ -42,5 +42,6 @@
                 "SocialiteProviders\\Generators\\GeneratorsServiceProvider"
             ]
         }
-    }
+    },
+    "minimum-stablity": "dev",
 }
